@@ -701,7 +701,7 @@ main .recent-orders a {
 
     aside .sidebar a:last-child {
         position: absolute;
-        bottom: 5rem;
+        bottom: 2rem;
     }
 
     aside .close {

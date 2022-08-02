@@ -4,7 +4,6 @@ const closeBtn = document.querySelector("#close-btn")
 const themeToggler = document.querySelector(".theme-toggler")
 
 function verificarTamanhoTela(tamanho) {
-    console.log(tamanho)
     if (tamanho.matches) { // If media query matches
         sideMenu.style.display = 'none'
     } else {
