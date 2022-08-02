@@ -23,5 +23,5 @@ Demonstração do Thema (Claro/Escuro)<br>
 <br><br>
 
 ## Visualização em Tempo Real
-[Live View]() <br><br>
+[Live View](https://mayconvs.github.io/dashboard-responsivo/) <br><br>
 
